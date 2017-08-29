@@ -1,0 +1,27 @@
+# Project1
+First CSS&amp;HTML Webstie
+<!doctype html>
+<html>
+    <head>
+    <title>Penny Hardaway </title>
+        <style>
+            body{background-color: rgb(196,206,211)}
+            #header{background-color: rgb(0,125,197);
+            font-size: 50px;
+            color : antiquewhite;}
+            .paragraphone{font-size: 25px}
+            .paragraphtwo{font-size: 25px}
+            h2{background-color: rgb(0,125,197);
+                font-size: 40px;}
+        </style>
+    </head>
+    <body>
+        <center><h1 id="header">Anfernee "Penny" Hardaway</h1></center>
+        <center><img src="penny.gif"/> </center>
+        <h2>The Choke</h2>
+        <p class="paragraphone"> Nick Anderson missed four consecutive free throws costing the Magic their first title versus Hakeem and the Rockets. </p>
+        <h2>Shaq leaves</h2>
+        <p class="paragraphtwo">Shaq went to the Lakers when the two were hitting their primes except a few injuries by Penny. Penny Hardaway was one of the greatest point gaurds in the NBA and would've won multiple titles if Shaq was not a big baby.</p>
+    </body>
+
+</html>
